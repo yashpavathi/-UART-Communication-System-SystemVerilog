@@ -32,6 +32,11 @@ This project implements a UART (Universal Asynchronous Receiver-Transmitter) com
 ## 🧪 Verification Results
 
 The UART transmitter and receiver were connected in a loopback configuration.
+## 📈 Simulation Waveform
+
+The waveform below shows the UART loopback simulation in GTKWave.
+
+![UART Loopback Waveform](uart_loopback_waveform.png)
 
 **Verified Test Case:**
 
