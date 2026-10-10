@@ -68,4 +68,7 @@ The waveform below shows the UART loopback simulation in GTKWave.
 
 ## 👩‍💻 Author
 
-ECE Student | Aspiring VLSI Design Engineer
+**Devarapalli Yashpavathi**
+B.Tech ECE Student | Aspiring VLSI Design Engineer
+Interested in Digital Design, SystemVerilog, RTL Design, and VLSI Research & Development.
+
